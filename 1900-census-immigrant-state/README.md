@@ -4,7 +4,7 @@ This dataset is a transcribed version of the data from Table 33 of the Twelfth C
 
 **Methodology**
 
-To transcribe the data, Stacker staff first used [pdftoexcel.com](https://www.pdftoexcel.com/). This yielded a poorly formatted and inaccurate spreadsheet. This base transcription was reformatted, corrected, and checked by hand, resulting in this final product.
+To transcribe the data, Stacker staff first used [pdftoexcel.com](https://www.pdftoexcel.com/). This yielded an easy-to-read tabular dataset, but still had gaps where the original file was simply illegible to computers. This base transcription was reformatted, corrected, and checked by hand, resulting in this final product.
 
 **Keep in touch**
 
